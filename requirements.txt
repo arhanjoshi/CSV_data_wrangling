@@ -1,0 +1,6 @@
+pandas
+openpyxl
+scikit-learn
+difflib
+SequenceMatcher
+ace_tools
